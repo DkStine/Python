@@ -18,3 +18,5 @@ k = Solution()
 n = k.removeDuplicates(nums)
 print(n)
 print(nums)
+
+print("test")
